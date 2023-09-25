@@ -9,7 +9,7 @@ cervena
 jahodka
 
 a jaaa ja ja ja
-ja 
+ja som tuna paaaan ja! 
 som
 este
 zelena
