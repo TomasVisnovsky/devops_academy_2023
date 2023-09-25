@@ -8,7 +8,7 @@ taka
 cervena
 jahodka
 
-a jaaa
+a jaaa ja ja ja
 ja 
 som
 este
