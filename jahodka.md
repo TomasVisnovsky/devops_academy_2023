@@ -2,8 +2,14 @@
 **hruby text**
 *kurziva text*
 
-ja
+ja ja ja
 som
 taka
 cervena
 jahodka
+
+a jaaa
+ja 
+som
+este
+zelena
