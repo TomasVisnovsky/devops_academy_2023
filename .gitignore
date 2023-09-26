@@ -1,0 +1,7 @@
+~/Malinka.md
+*.exe
+*.bin
+output/
+temp/
+./ignore/ignore_twice/*
+*temporary.*
