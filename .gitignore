@@ -1,6 +1,6 @@
 ~/Malinka.md
 *.exe
-*.bin
+#*.bin
 output/
 temp/
 ./ignore/ignore_twice/*
